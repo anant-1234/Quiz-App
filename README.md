@@ -8,9 +8,9 @@
 
 # How to Run
 
-1)Inside the assignment_20171101/go/src folder run 
+1) Inside the assignment_20171101/go/src folder run 
      go run 5\ -\ CRUD\ API.go 
-2)Inside the assignment_20171101/reactapp run
+2) Inside the assignment_20171101/reactapp run
      yarn start
      
 # Functionality
