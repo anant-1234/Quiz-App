@@ -15,9 +15,9 @@
      
 # Functionality
 
-1)The app provides features of login and signup.
-2)It has a admin user who can create,edit or delete quizzes and also manage the users.
-3)The app has 2 genres : politics and sports and quizzes on them.
-4)The questions on audio clips and images are also included in the databases.
-5)The score is displayed after submitting the quiz and entry in leaderboard is made.
-6)The user can view his complete perfomance by viewing the previous quizzes attempted.
+1) The app provides features of login and signup.
+2) It has a admin user who can create,edit or delete quizzes and also manage the users.
+3) The app has 2 genres : politics and sports and quizzes on them.
+4) The questions on audio clips and images are also included in the databases.
+5) The score is displayed after submitting the quiz and entry in leaderboard is made.
+6) The user can view his complete perfomance by viewing the previous quizzes attempted.
